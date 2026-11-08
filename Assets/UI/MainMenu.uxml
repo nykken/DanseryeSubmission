@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; flex-direction: row; align-items: center; justify-content: space-around; align-self: flex-start;"/>
+    <ui:VisualElement style="flex-grow: 1; flex-direction: row-reverse; align-items: stretch; justify-content: space-around;">
+        <ui:Label text="&lt;color=#A40000&gt;&lt;size=150%&gt;D&lt;/size&gt;&lt;/color&gt;anserye" style="-unity-font-definition: url(&quot;project://database/Assets/fonts/GrenzeGotisch-Bold.ttf?fileID=12800000&amp;guid=26f474d542b7afb4498ddcc853509c4c&amp;type=3#GrenzeGotisch-Bold&quot;); font-size: 130px; height: 194px; width: 746px; white-space: pre-wrap; -unity-text-align: middle-left; align-items: center; justify-content: center; flex-direction: row;"/>
+    </ui:VisualElement>
+</ui:UXML>
